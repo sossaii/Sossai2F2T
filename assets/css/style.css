@@ -3,3 +3,9 @@
 body{
     background-color: #EBECCE;
 }
+:root{
+--branco:#FFFFFF;
+--cor-de-fundo:#EBECCE;
+--laranja:#E89B00;
+--azul-degrade:linear-gradient(97.56deg,#022f52 35.49%,#326589 165.37%);
+}

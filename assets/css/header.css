@@ -16,3 +16,10 @@
 .seletor-menu:checked ~ .menu-lista{
     display: block;
 }
+.menu-lista-titulo, .menu-lista-item{
+    background-color: white;
+    padding: 1em;
+}
+.menu-lista-titulo{
+    color: var(--laranja);
+}
