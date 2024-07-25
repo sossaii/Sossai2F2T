@@ -2,6 +2,7 @@
 @import url(header.css);
 body{
     background-color: #EBECCE;
+    font-family: "Poppins", sans-serif;
 }
 :root{
 --branco:#FFFFFF;
