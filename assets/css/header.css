@@ -14,7 +14,7 @@
 .menu-lista{
     display: none;
     position: absolute;
-    width: 60vh;
+    width: 30vh;
     text-transform: uppercase;
 }
 .seletor-menu:checked ~ .menu-lista{

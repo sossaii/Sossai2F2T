@@ -1,5 +1,6 @@
 @import url(reset.css);
 @import url(header.css);
+@import url(banner.css);
 body{
     background-color: #EBECCE;
     font-family: "Poppins", sans-serif;
