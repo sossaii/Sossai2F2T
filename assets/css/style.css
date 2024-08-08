@@ -1,6 +1,7 @@
 @import url(reset.css);
 @import url(header.css);
 @import url(banner.css);
+@import url(carrosel.css);
 body{
     background-color: #EBECCE;
     font-family: "Poppins", sans-serif;
